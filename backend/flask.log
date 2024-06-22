@@ -1,0 +1,1170 @@
+2024-03-09 00:34:09,384 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09 00:34:09,385 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09 00:34:09,416 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 00:34:36,866 - WARNING -  * Debugger is active!
+2024-03-09 00:34:36,874 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 00:34:42,410 - INFO - Received request to /video_feed
+2024-03-09 00:34:43,177 - INFO - 127.0.0.1 - - [09/Mar/2024 00:34:43] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 02:35:51,334 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09 02:35:51,335 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09 02:35:51,360 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 02:36:15,068 - WARNING -  * Debugger is active!
+2024-03-09 02:36:15,074 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 02:43:19,285 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09 02:43:19,286 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09 02:43:19,309 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 02:45:21,644 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09 02:45:21,645 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09 02:45:21,654 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 02:45:43,039 - WARNING -  * Debugger is active!
+2024-03-09 02:45:43,044 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 02:46:23,620 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\past\\utils\\__init__.py', reloading
+2024-03-09 02:46:23,621 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\past\\translation\\__init__.py', reloading
+2024-03-09 02:46:23,622 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\past\\builtins\\misc.py', reloading
+2024-03-09 02:46:23,623 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\past\\types\\oldstr.py', reloading
+2024-03-09 02:46:23,766 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\past\\builtins\\noniterators.py', reloading
+2024-03-09 02:46:23,768 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\past\\builtins\\__init__.py', reloading
+2024-03-09 02:46:23,771 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\past\\__init__.py', reloading
+2024-03-09 02:46:23,790 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\past\\types\\__init__.py', reloading
+2024-03-09 02:46:23,794 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\past\\types\\basestring.py', reloading
+2024-03-09 02:46:23,809 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\past\\types\\olddict.py', reloading
+2024-03-09 02:46:23,822 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\tests\\test_collections.py', reloading
+2024-03-09 02:46:23,822 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\tests\\test_numbers.py', reloading
+2024-03-09 02:46:23,826 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\tests\\test_import_interfaces.py', reloading
+2024-03-09 02:46:23,845 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\tests\\test_idatetime.py', reloading
+2024-03-09 02:46:23,850 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\io.py', reloading
+2024-03-09 02:46:23,851 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\tests\\basemapping.py', reloading
+2024-03-09 02:46:23,854 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\tests\\test_builtins.py', reloading
+2024-03-09 02:46:23,864 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\tests\\__init__.py', reloading
+2024-03-09 02:46:23,866 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\tests\\test_io.py', reloading
+2024-03-09 02:46:23,868 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\__init__.py', reloading
+2024-03-09 02:46:23,870 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\sequence.py', reloading
+2024-03-09 02:46:23,881 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\collections.py', reloading
+2024-03-09 02:46:23,883 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\idatetime.py', reloading
+2024-03-09 02:46:23,887 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\numbers.py', reloading
+2024-03-09 02:46:23,898 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\mapping.py', reloading
+2024-03-09 02:46:23,912 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_element.py', reloading
+2024-03-09 02:46:23,916 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_declarations.py', reloading
+2024-03-09 02:46:23,917 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_ro.py', reloading
+2024-03-09 02:46:23,921 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\__init__.py', reloading
+2024-03-09 02:46:23,946 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\interfaces.py', reloading
+2024-03-09 02:46:23,961 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\common\\builtins.py', reloading
+2024-03-09 02:46:23,965 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_compile_flags.py', reloading
+2024-03-09 02:46:23,966 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_interfaces.py', reloading
+2024-03-09 02:46:23,977 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\m1.py', reloading
+2024-03-09 02:46:23,980 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\advisory_testing.py', reloading
+2024-03-09 02:46:23,981 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_interface.py', reloading
+2024-03-09 02:46:23,989 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\idummy.py', reloading
+2024-03-09 02:46:23,997 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_exceptions.py', reloading
+2024-03-09 02:46:24,009 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_registry.py', reloading
+2024-03-09 02:46:24,018 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\odd.py', reloading
+2024-03-09 02:46:24,057 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_document.py', reloading
+2024-03-09 02:46:24,108 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\dummy.py', reloading
+2024-03-09 02:46:24,121 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_sorting.py', reloading
+2024-03-09 02:46:24,138 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_advice.py', reloading
+2024-03-09 02:46:24,156 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_odd_declarations.py', reloading
+2024-03-09 02:46:24,157 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_verify.py', reloading
+2024-03-09 02:46:24,174 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\tests\\test_adapter.py', reloading
+2024-03-09 02:46:24,178 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\zope\\interface\\_compat.py', reloading
+2024-03-09 02:46:25,496 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 02:46:51,395 - WARNING -  * Debugger is active!
+2024-03-09 02:46:51,402 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 02:46:53,244 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\multiprocessing\\process.py', reloading
+2024-03-09 02:46:54,309 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 02:47:18,931 - WARNING -  * Debugger is active!
+2024-03-09 02:47:18,938 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 02:54:26,538 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09 02:54:26,539 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09 02:54:26,561 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 02:54:48,901 - WARNING -  * Debugger is active!
+2024-03-09 02:54:48,924 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 02:54:49,130 - INFO - 127.0.0.1 - - [09/Mar/2024 02:54:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-09 02:54:49,133 - INFO - 127.0.0.1 - - [09/Mar/2024 02:54:49] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 02:54:49,135 - INFO - Received request to /video_feed
+2024-03-09 02:54:50,318 - INFO - 127.0.0.1 - - [09/Mar/2024 02:54:50] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 02:59:26,357 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09 02:59:26,357 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09 02:59:26,374 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 02:59:47,486 - WARNING -  * Debugger is active!
+2024-03-09 02:59:47,492 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 02:59:47,532 - INFO - 127.0.0.1 - - [09/Mar/2024 02:59:47] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 03:00:05,874 - INFO - Received request to /video_feed
+2024-03-09 03:00:06,561 - INFO - 127.0.0.1 - - [09/Mar/2024 03:00:06] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 10:25:43,884 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09 10:25:43,890 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09 10:25:43,952 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 10:26:07,332 - WARNING -  * Debugger is active!
+2024-03-09 10:26:07,338 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 10:26:07,379 - INFO - Received request to /video_feed
+2024-03-09 10:26:08,002 - INFO - 127.0.0.1 - - [09/Mar/2024 10:26:08] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 10:26:25,978 - INFO - 127.0.0.1 - - [09/Mar/2024 10:26:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-09 10:26:26,300 - INFO - 127.0.0.1 - - [09/Mar/2024 10:26:26] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 10:27:01,902 - INFO - 127.0.0.1 - - [09/Mar/2024 10:27:01] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 10:27:37,841 - INFO - Received request to /video_feed
+2024-03-09 10:27:37,907 - INFO - 127.0.0.1 - - [09/Mar/2024 10:27:37] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 10:28:15,795 - INFO - 127.0.0.1 - - [09/Mar/2024 10:28:15] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 10:29:50,977 - INFO - Received request to /video_feed
+2024-03-09 10:29:51,057 - INFO - 127.0.0.1 - - [09/Mar/2024 10:29:51] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 10:29:56,441 - INFO - 127.0.0.1 - - [09/Mar/2024 10:29:56] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 10:29:58,675 - INFO - Received request to /video_feed
+2024-03-09 10:29:58,752 - INFO - 127.0.0.1 - - [09/Mar/2024 10:29:58] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 10:30:59,983 - INFO - 127.0.0.1 - - [09/Mar/2024 10:30:59] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 10:31:09,107 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_cors\\__init__.py', reloading
+2024-03-09 10:31:09,142 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\cv2\\__init__.py', reloading
+2024-03-09 10:31:11,716 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 10:31:40,588 - WARNING -  * Debugger is active!
+2024-03-09 10:31:40,593 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 10:31:40,676 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\librosa\\core\\spectrum.py', reloading
+2024-03-09 10:31:40,695 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\librosa\\core\\pitch.py', reloading
+2024-03-09 10:31:40,709 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\librosa\\core\\constantq.py', reloading
+2024-03-09 10:31:40,722 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\librosa\\core\\harmonic.py', reloading
+2024-03-09 10:31:40,733 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\librosa\\core\\fft.py', reloading
+2024-03-09 10:31:40,743 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\librosa\\core\\notation.py', reloading
+2024-03-09 10:31:40,754 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\librosa\\core\\intervals.py', reloading
+2024-03-09 10:31:40,767 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\__init__.py', reloading
+2024-03-09 10:31:40,827 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\callbacks\\global_handlers.py', reloading
+2024-03-09 10:31:40,842 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\data_structs\\struct_type.py', reloading
+2024-03-09 10:31:40,851 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\embeddings\\__init__.py', reloading
+2024-03-09 10:31:40,887 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\embeddings\\openai.py', reloading
+2024-03-09 10:31:40,906 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\__init__.py', reloading
+2024-03-09 10:31:40,947 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\composability\\graph.py', reloading
+2024-03-09 10:31:40,961 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\document_summary\\base.py', reloading
+2024-03-09 10:31:40,978 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\document_summary\\__init__.py', reloading
+2024-03-09 10:31:40,990 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\keyword_table\\base.py', reloading
+2024-03-09 10:31:41,002 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\knowledge_graph\\__init__.py', reloading
+2024-03-09 10:31:41,016 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\knowledge_graph\\base.py', reloading
+2024-03-09 10:31:41,030 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\list\\base.py', reloading
+2024-03-09 10:31:41,041 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\keyword_table\\rake_base.py', reloading
+2024-03-09 10:31:41,049 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\keyword_table\\simple_base.py', reloading
+2024-03-09 10:31:41,058 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\tree\\base.py', reloading
+2024-03-09 10:31:41,068 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\vector_store\\__init__.py', reloading
+2024-03-09 10:31:41,082 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\vector_store\\base.py', reloading
+2024-03-09 10:31:41,094 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\loading.py', reloading
+2024-03-09 10:31:41,106 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\common\\struct_store\\base.py', reloading
+2024-03-09 10:31:41,125 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\indices\\prompt_helper.py', reloading
+2024-03-09 10:31:41,139 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\llm_predictor\\__init__.py', reloading
+2024-03-09 10:31:41,150 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\llm_predictor\\base.py', reloading
+2024-03-09 10:31:41,165 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\llm_predictor\\mock.py', reloading
+2024-03-09 10:31:41,175 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\prompts\\__init__.py', reloading
+2024-03-09 10:31:41,184 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\prompts\\base.py', reloading
+2024-03-09 10:31:41,197 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\readers\\__init__.py', reloading
+2024-03-09 10:31:41,244 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\readers\\file\\base.py', reloading
+2024-03-09 10:31:41,265 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\readers\\download.py', reloading
+2024-03-09 10:31:41,276 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\response\\schema.py', reloading
+2024-03-09 10:31:41,285 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\response_synthesizers\\factory.py', reloading
+2024-03-09 10:31:41,310 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\schema.py', reloading
+2024-03-09 10:31:41,325 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\service_context.py', reloading
+2024-03-09 10:31:41,343 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\storage\\storage_context.py', reloading
+2024-03-09 10:31:41,358 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\token_counter\\mock_embed_model.py', reloading
+2024-03-09 10:31:41,368 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\utilities\\sql_wrapper.py', reloading
+2024-03-09 10:31:41,381 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llama_index\\utils.py', reloading
+2024-03-09 10:31:41,390 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\llvmlite\\__init__.py', reloading
+2024-03-09 10:31:41,397 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\markdown_it\\__init__.py', reloading
+2024-03-09 10:31:41,407 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\markdown_it\\main.py', reloading
+2024-03-09 10:31:41,425 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\markupsafe\\__init__.py', reloading
+2024-03-09 10:31:41,445 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\marshmallow\\__init__.py', reloading
+2024-03-09 10:31:41,460 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\marshmallow\\decorators.py', reloading
+2024-03-09 10:31:41,470 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\marshmallow\\exceptions.py', reloading
+2024-03-09 10:31:41,481 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\marshmallow\\schema.py', reloading
+2024-03-09 10:31:41,500 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\marshmallow\\utils.py', reloading
+2024-03-09 10:31:41,509 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\matplotlib\\pylab.py', reloading
+2024-03-09 10:31:41,661 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\numpy\\typing\\__init__.py', reloading
+2024-03-09 10:31:42,355 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 10:32:05,003 - WARNING -  * Debugger is active!
+2024-03-09 10:32:05,008 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 10:32:46,669 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09 10:32:46,669 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09 10:32:46,700 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 10:33:14,507 - WARNING -  * Debugger is active!
+2024-03-09 10:33:14,518 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 10:33:14,596 - INFO - 127.0.0.1 - - [09/Mar/2024 10:33:14] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 10:33:14,599 - INFO - Received request to /video_feed
+2024-03-09 10:33:15,177 - INFO - 127.0.0.1 - - [09/Mar/2024 10:33:15] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 10:33:43,441 - INFO - 127.0.0.1 - - [09/Mar/2024 10:33:43] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 10:45:25,002 - INFO - Received request to /video_feed
+2024-03-09 10:45:25,056 - INFO - 127.0.0.1 - - [09/Mar/2024 10:45:25] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 10:45:27,390 - INFO - 127.0.0.1 - - [09/Mar/2024 10:45:27] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 10:55:12,598 - INFO - Received request to /video_feed
+2024-03-09 10:55:12,667 - INFO - 127.0.0.1 - - [09/Mar/2024 10:55:12] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 10:55:29,144 - INFO - 127.0.0.1 - - [09/Mar/2024 10:55:29] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 10:59:17,139 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\mediapipe\\python\\solutions\\hands.py', reloading
+2024-03-09 10:59:17,224 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\mediapipe\\python\\solution_base.py', reloading
+2024-03-09 10:59:17,330 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\mediapipe\\python\\solutions\\drawing_utils.py', reloading
+2024-03-09 10:59:18,825 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 10:59:47,821 - WARNING -  * Debugger is active!
+2024-03-09 10:59:47,827 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 11:07:21,103 - INFO - 127.0.0.1 - - [09/Mar/2024 11:07:21] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 11:07:22,722 - INFO - Received request to /video_feed
+2024-03-09 11:07:23,089 - INFO - 127.0.0.1 - - [09/Mar/2024 11:07:23] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 11:07:26,646 - INFO - 127.0.0.1 - - [09/Mar/2024 11:07:26] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 11:07:48,173 - INFO - 127.0.0.1 - - [09/Mar/2024 11:07:48] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 11:07:52,091 - INFO - 127.0.0.1 - - [09/Mar/2024 11:07:52] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 11:26:03,626 - INFO - Received request to /video_feed
+2024-03-09 11:26:03,716 - INFO - 127.0.0.1 - - [09/Mar/2024 11:26:03] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 11:26:07,199 - INFO - 127.0.0.1 - - [09/Mar/2024 11:26:07] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 11:39:20,927 - INFO - Received request to /video_feed
+2024-03-09 11:39:20,979 - INFO - 127.0.0.1 - - [09/Mar/2024 11:39:20] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 11:39:29,361 - INFO - 127.0.0.1 - - [09/Mar/2024 11:39:29] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 11:59:12,212 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+2024-03-09 11:59:12,281 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2024-03-09 11:59:13,901 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 11:59:37,918 - WARNING -  * Debugger is active!
+2024-03-09 11:59:37,923 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 11:59:37,966 - INFO - 127.0.0.1 - - [09/Mar/2024 11:59:37] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 11:59:55,136 - INFO - Received request to /video_feed
+2024-03-09 11:59:55,473 - INFO - 127.0.0.1 - - [09/Mar/2024 11:59:55] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 11:59:59,291 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-03-09 11:59:59,302 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-03-09 11:59:59,999 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 12:00:19,596 - WARNING -  * Debugger is active!
+2024-03-09 12:00:19,601 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 12:00:19,638 - INFO - Received request to /video_feed
+2024-03-09 12:00:19,954 - INFO - 127.0.0.1 - - [09/Mar/2024 12:00:19] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 12:00:49,023 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-09 12:00:49,023 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-09 12:00:49,035 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-09 12:01:10,135 - WARNING -  * Debugger is active!
+2024-03-09 12:01:10,140 - INFO -  * Debugger PIN: 988-759-538
+2024-03-09 12:01:10,184 - INFO - 127.0.0.1 - - [09/Mar/2024 12:01:10] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 12:01:21,503 - INFO - Received request to /video_feed
+2024-03-09 12:01:21,914 - INFO - 127.0.0.1 - - [09/Mar/2024 12:01:21] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 12:01:32,319 - INFO - 127.0.0.1 - - [09/Mar/2024 12:01:32] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 12:01:33,458 - INFO - Received request to /video_feed
+2024-03-09 12:01:33,510 - INFO - 127.0.0.1 - - [09/Mar/2024 12:01:33] "GET /video_feed HTTP/1.1" 200 -
+2024-03-09 12:01:44,345 - INFO - 127.0.0.1 - - [09/Mar/2024 12:01:44] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-03-09 12:01:47,025 - INFO - Received request to /video_feed
+2024-03-09 12:01:47,077 - INFO - 127.0.0.1 - - [09/Mar/2024 12:01:47] "GET /video_feed HTTP/1.1" 200 -
+2024-04-11 14:21:14,197 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-11 14:21:14,199 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-11 14:21:14,244 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-11 14:21:50,001 - WARNING -  * Debugger is active!
+2024-04-11 14:21:50,021 - INFO -  * Debugger PIN: 988-759-538
+2024-04-11 14:21:52,519 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\spacy\\__init__.py', reloading
+2024-04-11 14:21:52,708 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\pafy\\pafy.py', reloading
+2024-04-11 14:21:52,743 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\pafy\\g.py', reloading
+2024-04-11 14:30:44,983 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-11 14:30:44,983 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-11 14:30:45,006 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-11 14:31:07,962 - WARNING -  * Debugger is active!
+2024-04-11 14:31:07,969 - INFO -  * Debugger PIN: 988-759-538
+2024-04-11 14:31:08,013 - INFO - Received request to /video_feed
+2024-04-11 14:31:08,022 - INFO - Received request to /video_feed
+2024-04-11 14:31:08,712 - INFO - 127.0.0.1 - - [11/Apr/2024 14:31:08] "GET /video_feed HTTP/1.1" 200 -
+2024-04-11 14:31:08,712 - INFO - 127.0.0.1 - - [11/Apr/2024 14:31:08] "GET /video_feed HTTP/1.1" 200 -
+2024-04-11 14:35:55,516 - INFO - 127.0.0.1 - - [11/Apr/2024 14:35:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-11 14:35:55,822 - INFO - 127.0.0.1 - - [11/Apr/2024 14:35:55] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-11 14:35:56,950 - INFO - Received request to /video_feed
+2024-04-11 14:35:57,070 - INFO - 127.0.0.1 - - [11/Apr/2024 14:35:57] "GET /video_feed HTTP/1.1" 200 -
+2024-04-12 21:06:02,169 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 21:06:02,169 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 21:06:02,194 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 21:06:24,248 - WARNING -  * Debugger is active!
+2024-04-12 21:06:24,265 - INFO -  * Debugger PIN: 988-759-538
+2024-04-12 21:08:18,744 - INFO - Received request to /video_feed
+2024-04-12 21:08:19,482 - INFO - 127.0.0.1 - - [12/Apr/2024 21:08:19] "GET /video_feed HTTP/1.1" 200 -
+2024-04-12 21:33:43,762 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 21:33:43,762 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 21:33:43,781 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 21:34:05,322 - WARNING -  * Debugger is active!
+2024-04-12 21:34:05,328 - INFO -  * Debugger PIN: 988-759-538
+2024-04-12 21:34:05,370 - INFO - Received request to /video_feed
+2024-04-12 21:34:06,101 - INFO - 127.0.0.1 - - [12/Apr/2024 21:34:06] "GET /video_feed HTTP/1.1" 200 -
+2024-04-12 21:34:09,294 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-04-12 21:34:09,306 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-04-12 21:34:09,393 - INFO - 127.0.0.1 - - [12/Apr/2024 21:34:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-12 21:34:10,325 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 21:34:33,102 - WARNING -  * Debugger is active!
+2024-04-12 21:34:33,110 - INFO -  * Debugger PIN: 988-759-538
+2024-04-12 21:34:33,148 - INFO - Received request to /video_feed
+2024-04-12 21:34:33,520 - INFO - 127.0.0.1 - - [12/Apr/2024 21:34:33] "GET /video_feed HTTP/1.1" 200 -
+2024-04-12 21:43:43,160 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 21:43:43,161 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 21:43:43,171 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 21:44:05,523 - WARNING -  * Debugger is active!
+2024-04-12 21:44:05,530 - INFO -  * Debugger PIN: 988-759-538
+2024-04-12 21:44:05,570 - INFO - Received request to /video_feed
+2024-04-12 21:44:05,574 - INFO - Received request to /video_feed
+2024-04-12 21:44:06,006 - INFO - 127.0.0.1 - - [12/Apr/2024 21:44:06] "GET /video_feed HTTP/1.1" 200 -
+2024-04-12 21:44:06,034 - INFO - 127.0.0.1 - - [12/Apr/2024 21:44:06] "GET /video_feed HTTP/1.1" 200 -
+2024-04-12 21:49:11,239 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 21:49:11,239 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 21:49:11,253 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 21:49:33,191 - WARNING -  * Debugger is active!
+2024-04-12 21:49:33,198 - INFO -  * Debugger PIN: 988-759-538
+2024-04-12 21:50:54,418 - INFO - Received request to /video_feed
+2024-04-12 21:50:54,912 - INFO - 127.0.0.1 - - [12/Apr/2024 21:50:54] "GET /video_feed HTTP/1.1" 200 -
+2024-04-12 21:51:01,226 - INFO - Received request to /video_feed
+2024-04-12 21:51:01,290 - INFO - 127.0.0.1 - - [12/Apr/2024 21:51:01] "GET /video_feed HTTP/1.1" 200 -
+2024-04-12 21:51:38,969 - INFO - 127.0.0.1 - - [12/Apr/2024 21:51:38] "[31m[1mGET //save_drawing HTTP/1.1[0m" 405 -
+2024-04-12 23:15:07,567 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 23:15:07,568 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 23:15:07,586 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 23:15:29,942 - WARNING -  * Debugger is active!
+2024-04-12 23:15:29,949 - INFO -  * Debugger PIN: 988-759-538
+2024-04-12 23:22:57,004 - INFO - Received request to /video_feed
+2024-04-12 23:22:57,714 - INFO - 127.0.0.1 - - [12/Apr/2024 23:22:57] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 00:17:18,974 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 00:17:18,975 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 00:17:18,990 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 00:17:41,034 - WARNING -  * Debugger is active!
+2024-04-13 00:17:41,041 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 00:17:41,084 - INFO - Received request to /video_feed
+2024-04-13 00:17:41,742 - INFO - 127.0.0.1 - - [13/Apr/2024 00:17:41] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 00:21:53,404 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 00:21:53,404 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 00:21:53,441 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 00:22:15,978 - WARNING -  * Debugger is active!
+2024-04-13 00:22:15,983 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 00:22:43,129 - INFO - 127.0.0.1 - - [13/Apr/2024 00:22:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-13 00:22:43,431 - INFO - 127.0.0.1 - - [13/Apr/2024 00:22:43] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 00:22:47,124 - INFO - Received request to /video_feed
+2024-04-13 00:22:47,895 - INFO - 127.0.0.1 - - [13/Apr/2024 00:22:47] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 00:24:26,426 - INFO - 127.0.0.1 - - [13/Apr/2024 00:24:26] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 00:28:10,011 - INFO - 127.0.0.1 - - [13/Apr/2024 00:28:10] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 00:28:10,655 - INFO - 127.0.0.1 - - [13/Apr/2024 00:28:10] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 00:29:31,208 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 00:29:31,208 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 00:29:31,254 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 00:29:53,692 - WARNING -  * Debugger is active!
+2024-04-13 00:29:53,697 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 00:30:38,228 - INFO - Received request to /video_feed
+2024-04-13 00:30:38,849 - INFO - 127.0.0.1 - - [13/Apr/2024 00:30:38] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 00:30:39,076 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-04-13 00:30:39,077 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-04-13 00:30:41,751 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 00:31:08,924 - WARNING -  * Debugger is active!
+2024-04-13 00:31:08,934 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 00:31:08,999 - INFO - Received request to /video_feed
+2024-04-13 00:31:09,001 - INFO - Received request to /video_feed
+2024-04-13 00:31:09,445 - INFO - 127.0.0.1 - - [13/Apr/2024 00:31:09] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 00:31:09,528 - INFO - 127.0.0.1 - - [13/Apr/2024 00:31:09] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 00:43:02,152 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 00:43:02,152 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 00:43:02,178 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 00:43:24,837 - WARNING -  * Debugger is active!
+2024-04-13 00:43:24,843 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 00:43:30,859 - INFO - 127.0.0.1 - - [13/Apr/2024 00:43:30] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 00:43:56,151 - INFO - Received request to /video_feed
+2024-04-13 00:43:56,841 - INFO - 127.0.0.1 - - [13/Apr/2024 00:43:56] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 00:44:40,396 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\datastructures\\structures.py', reloading
+2024-04-13 00:44:40,407 - INFO - 127.0.0.1 - - [13/Apr/2024 00:44:40] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 00:44:42,783 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 00:45:10,394 - WARNING -  * Debugger is active!
+2024-04-13 00:45:10,405 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 00:45:10,486 - INFO - 127.0.0.1 - - [13/Apr/2024 00:45:10] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 00:50:58,948 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 00:50:58,948 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 00:50:58,969 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 00:51:22,676 - WARNING -  * Debugger is active!
+2024-04-13 00:51:22,692 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 00:51:22,774 - INFO - 127.0.0.1 - - [13/Apr/2024 00:51:22] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 00:51:22,815 - INFO - Received request to /video_feed
+2024-04-13 00:51:23,516 - INFO - 127.0.0.1 - - [13/Apr/2024 00:51:23] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 00:51:44,752 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\logging\\__init__.py', reloading
+2024-04-13 00:51:44,888 - INFO - 127.0.0.1 - - [13/Apr/2024 00:51:44] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 00:51:44,888 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2024-04-13 00:51:44,889 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\http\\server.py', reloading
+2024-04-13 00:51:44,889 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\socketserver.py', reloading
+2024-04-13 00:51:44,889 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\threading.py', reloading
+2024-04-13 00:51:47,090 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 00:52:13,234 - WARNING -  * Debugger is active!
+2024-04-13 00:52:13,240 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 00:53:11,235 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-13 00:53:11,235 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-13 00:53:11,236 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-13 00:53:11,236 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-13 00:53:13,256 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 00:53:48,086 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 00:53:48,086 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 00:53:48,096 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 00:54:10,809 - WARNING -  * Debugger is active!
+2024-04-13 00:54:10,814 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 00:54:46,372 - INFO - 127.0.0.1 - - [13/Apr/2024 00:54:46] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 00:54:48,624 - INFO - Received request to /video_feed
+2024-04-13 00:54:49,052 - INFO - 127.0.0.1 - - [13/Apr/2024 00:54:49] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 00:55:03,259 - ERROR - Error saving drawing: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2024-04-13 00:55:03,260 - INFO - 127.0.0.1 - - [13/Apr/2024 00:55:03] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 00:55:23,180 - ERROR - Error saving drawing: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2024-04-13 00:55:23,181 - INFO - 127.0.0.1 - - [13/Apr/2024 00:55:23] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 00:56:25,949 - ERROR - Error saving drawing: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2024-04-13 00:56:25,950 - INFO - 127.0.0.1 - - [13/Apr/2024 00:56:25] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:05:20,051 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 01:05:20,051 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 01:05:20,096 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 01:05:41,856 - WARNING -  * Debugger is active!
+2024-04-13 01:05:41,863 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 01:06:22,757 - INFO - 127.0.0.1 - - [13/Apr/2024 01:06:22] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 01:06:25,702 - INFO - Received request to /video_feed
+2024-04-13 01:06:26,467 - INFO - 127.0.0.1 - - [13/Apr/2024 01:06:26] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:06:35,092 - INFO - 127.0.0.1 - - [13/Apr/2024 01:06:35] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 01:06:36,180 - INFO - Received request to /video_feed
+2024-04-13 01:06:36,225 - INFO - 127.0.0.1 - - [13/Apr/2024 01:06:36] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:06:54,895 - INFO - 127.0.0.1 - - [13/Apr/2024 01:06:54] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:06:57,321 - INFO - 127.0.0.1 - - [13/Apr/2024 01:06:57] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:06:59,322 - INFO - 127.0.0.1 - - [13/Apr/2024 01:06:59] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:06:59,445 - INFO - 127.0.0.1 - - [13/Apr/2024 01:06:59] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:08:08,901 - INFO - Received request to /video_feed
+2024-04-13 01:08:08,967 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:08] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:08:13,348 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:13] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 01:08:20,439 - INFO - Received request to /video_feed
+2024-04-13 01:08:20,484 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:20] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:08:23,075 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:23] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:08:25,969 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:25] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:08:58,985 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:58] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:08:59,262 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:59] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:08:59,394 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:59] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:08:59,556 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:59] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:08:59,663 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:59] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:08:59,789 - INFO - 127.0.0.1 - - [13/Apr/2024 01:08:59] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:09:05,346 - INFO - 127.0.0.1 - - [13/Apr/2024 01:09:05] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:09:51,669 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-13 01:09:51,672 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-13 01:09:51,673 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-13 01:09:51,674 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-13 01:09:53,877 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 01:10:22,361 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 01:10:22,361 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 01:10:22,404 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 01:10:45,763 - WARNING -  * Debugger is active!
+2024-04-13 01:10:45,769 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 01:10:45,812 - INFO - Received request to /video_feed
+2024-04-13 01:10:46,281 - INFO - 127.0.0.1 - - [13/Apr/2024 01:10:46] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:10:56,042 - INFO - 127.0.0.1 - - [13/Apr/2024 01:10:56] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:14:23,998 - INFO - 127.0.0.1 - - [13/Apr/2024 01:14:23] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 01:14:27,850 - INFO - Received request to /video_feed
+2024-04-13 01:14:27,898 - INFO - 127.0.0.1 - - [13/Apr/2024 01:14:27] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:14:39,325 - INFO - 127.0.0.1 - - [13/Apr/2024 01:14:39] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:15:42,001 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 01:15:42,001 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 01:15:42,047 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 01:16:04,388 - WARNING -  * Debugger is active!
+2024-04-13 01:16:04,394 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 01:16:20,234 - INFO - 127.0.0.1 - - [13/Apr/2024 01:16:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-13 01:16:27,349 - INFO - Received request to /video_feed
+2024-04-13 01:16:27,810 - INFO - 127.0.0.1 - - [13/Apr/2024 01:16:27] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:16:34,972 - INFO - 127.0.0.1 - - [13/Apr/2024 01:16:34] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:21:33,536 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 01:21:33,536 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 01:21:33,587 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 01:21:55,493 - WARNING -  * Debugger is active!
+2024-04-13 01:21:55,498 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 01:23:24,146 - INFO - Received request to /video_feed
+2024-04-13 01:23:24,776 - INFO - 127.0.0.1 - - [13/Apr/2024 01:23:24] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:23:43,900 - INFO - 127.0.0.1 - - [13/Apr/2024 01:23:43] "[35m[1mPOST /save_drawing HTTP/1.1[0m" 500 -
+2024-04-13 01:35:21,550 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 01:35:21,550 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 01:35:21,578 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 01:35:45,225 - WARNING -  * Debugger is active!
+2024-04-13 01:35:45,232 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 01:35:45,272 - INFO - Received request to /video_feed
+2024-04-13 01:35:45,274 - INFO - 127.0.0.1 - - [13/Apr/2024 01:35:45] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 01:35:45,276 - INFO - Received request to /video_feed
+2024-04-13 01:35:45,922 - INFO - 127.0.0.1 - - [13/Apr/2024 01:35:45] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:35:45,922 - INFO - 127.0.0.1 - - [13/Apr/2024 01:35:45] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:35:46,837 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-04-13 01:35:46,840 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-04-13 01:35:48,596 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 01:36:11,360 - WARNING -  * Debugger is active!
+2024-04-13 01:36:11,366 - INFO -  * Debugger PIN: 988-759-538
+2024-04-13 01:36:11,407 - INFO - 127.0.0.1 - - [13/Apr/2024 01:36:11] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 01:36:11,408 - INFO - Received request to /video_feed
+2024-04-13 01:36:11,411 - INFO - 127.0.0.1 - - [13/Apr/2024 01:36:11] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 01:36:11,412 - INFO - Received request to /video_feed
+2024-04-13 01:36:11,417 - INFO - 127.0.0.1 - - [13/Apr/2024 01:36:11] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 01:36:11,418 - INFO - Received request to /video_feed
+2024-04-13 01:36:11,420 - INFO - 127.0.0.1 - - [13/Apr/2024 01:36:11] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-13 01:36:11,422 - INFO - Received request to /video_feed
+2024-04-13 01:36:11,862 - INFO - 127.0.0.1 - - [13/Apr/2024 01:36:11] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:36:11,862 - INFO - 127.0.0.1 - - [13/Apr/2024 01:36:11] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:36:11,862 - INFO - 127.0.0.1 - - [13/Apr/2024 01:36:11] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:36:11,920 - INFO - 127.0.0.1 - - [13/Apr/2024 01:36:11] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:36:28,471 - INFO - Received request to /video_feed
+2024-04-13 01:36:28,654 - INFO - 127.0.0.1 - - [13/Apr/2024 01:36:28] "GET /video_feed HTTP/1.1" 200 -
+2024-04-13 01:36:29,520 - INFO - 127.0.0.1 - - [13/Apr/2024 01:36:29] "[35m[1mPOST /save_screenshot HTTP/1.1[0m" 500 -
+2024-04-17 12:14:47,330 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 12:14:47,335 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 12:14:47,396 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 12:15:12,082 - WARNING -  * Debugger is active!
+2024-04-17 12:15:12,089 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 12:17:57,872 - INFO - Received request to /video_feed
+2024-04-17 12:17:58,591 - INFO - 127.0.0.1 - - [17/Apr/2024 12:17:58] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 12:19:41,426 - INFO - 127.0.0.1 - - [17/Apr/2024 12:19:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-17 12:19:41,724 - INFO - 127.0.0.1 - - [17/Apr/2024 12:19:41] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 12:19:45,716 - INFO - Received request to /video_feed
+2024-04-17 12:19:45,782 - INFO - 127.0.0.1 - - [17/Apr/2024 12:19:45] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 12:20:17,791 - INFO - Received request to /video_feed
+2024-04-17 12:20:17,868 - INFO - 127.0.0.1 - - [17/Apr/2024 12:20:17] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 12:20:18,641 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\flask\\app.py', reloading
+2024-04-17 12:20:18,661 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_cors\\extension.py', reloading
+2024-04-17 12:20:18,672 - INFO - 127.0.0.1 - - [17/Apr/2024 12:20:18] "[35m[1mPOST /save_screenshot HTTP/1.1[0m" 500 -
+2024-04-17 12:20:20,529 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 12:20:47,227 - WARNING -  * Debugger is active!
+2024-04-17 12:20:47,240 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 12:20:51,881 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 12:20:51,882 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 12:20:51,882 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 12:20:51,883 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 12:20:53,412 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 12:21:16,558 - WARNING -  * Debugger is active!
+2024-04-17 12:21:16,563 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 12:21:34,381 - INFO - Received request to /video_feed
+2024-04-17 12:21:34,820 - INFO - 127.0.0.1 - - [17/Apr/2024 12:21:34] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:08:03,789 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 13:08:03,789 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 13:08:03,817 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 13:08:24,780 - WARNING -  * Debugger is active!
+2024-04-17 13:08:24,787 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 13:08:24,830 - INFO - Received request to /video_feed
+2024-04-17 13:08:25,567 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-04-17 13:08:25,580 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-04-17 13:08:25,584 - INFO - 127.0.0.1 - - [17/Apr/2024 13:08:25] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:08:26,635 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 13:08:48,512 - WARNING -  * Debugger is active!
+2024-04-17 13:08:48,518 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 13:08:48,559 - INFO - 127.0.0.1 - - [17/Apr/2024 13:08:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-17 13:08:57,136 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 13:08:57,136 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 13:08:57,137 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 13:08:57,138 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 13:08:58,313 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 13:09:23,753 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 13:09:23,753 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 13:09:23,762 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 13:09:45,467 - WARNING -  * Debugger is active!
+2024-04-17 13:09:45,473 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 13:09:45,518 - INFO - Received request to /video_feed
+2024-04-17 13:09:45,975 - INFO - 127.0.0.1 - - [17/Apr/2024 13:09:45] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:09:55,649 - INFO - Received request to /video_feed
+2024-04-17 13:09:55,743 - INFO - 127.0.0.1 - - [17/Apr/2024 13:09:55] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:09:59,829 - INFO - 127.0.0.1 - - [17/Apr/2024 13:09:59] "GET /video_feed/white HTTP/1.1" 200 -
+2024-04-17 13:10:17,711 - INFO - 127.0.0.1 - - [17/Apr/2024 13:10:17] "GET /video_feed/white HTTP/1.1" 200 -
+2024-04-17 13:10:18,871 - INFO - 127.0.0.1 - - [17/Apr/2024 13:10:18] "GET /video_feed/white HTTP/1.1" 200 -
+2024-04-17 13:19:36,172 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 13:19:36,172 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 13:19:36,194 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 13:19:57,094 - WARNING -  * Debugger is active!
+2024-04-17 13:19:57,099 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 13:19:57,138 - INFO - Received request to /video_feed
+2024-04-17 13:19:57,818 - INFO - 127.0.0.1 - - [17/Apr/2024 13:19:57] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:20:32,535 - INFO - Received request to /video_feed
+2024-04-17 13:20:32,577 - INFO - 127.0.0.1 - - [17/Apr/2024 13:20:32] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:21:18,769 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 13:21:18,770 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 13:21:18,770 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 13:21:18,771 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 13:21:20,037 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 13:21:45,091 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 13:21:45,091 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 13:21:45,102 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 13:22:05,552 - WARNING -  * Debugger is active!
+2024-04-17 13:22:05,557 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 13:22:05,592 - INFO - Received request to /video_feed
+2024-04-17 13:22:06,034 - INFO - 127.0.0.1 - - [17/Apr/2024 13:22:06] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:22:24,124 - INFO - Received request to /video_feed
+2024-04-17 13:22:24,201 - INFO - 127.0.0.1 - - [17/Apr/2024 13:22:24] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:22:39,708 - INFO - 127.0.0.1 - - [17/Apr/2024 13:22:39] "GET /video_feed/static_white HTTP/1.1" 200 -
+2024-04-17 13:28:21,407 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 13:28:21,408 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 13:28:21,444 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 13:28:43,726 - WARNING -  * Debugger is active!
+2024-04-17 13:28:43,730 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 13:28:43,781 - INFO - Received request to /video_feed
+2024-04-17 13:28:43,805 - INFO - 127.0.0.1 - - [17/Apr/2024 13:28:43] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:30:34,486 - INFO - Received request to /video_feed
+2024-04-17 13:30:34,497 - INFO - 127.0.0.1 - - [17/Apr/2024 13:30:34] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:38:07,220 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 13:38:07,220 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 13:38:07,230 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 13:38:28,540 - WARNING -  * Debugger is active!
+2024-04-17 13:38:28,545 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 13:38:28,585 - INFO - Received request to /video_feed
+2024-04-17 13:38:29,106 - INFO - 127.0.0.1 - - [17/Apr/2024 13:38:29] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:38:40,056 - INFO - Received request to /video_feed
+2024-04-17 13:38:40,129 - INFO - 127.0.0.1 - - [17/Apr/2024 13:38:40] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 13:38:52,818 - INFO - 127.0.0.1 - - [17/Apr/2024 13:38:52] "GET /video_feed/whitebg HTTP/1.1" 200 -
+2024-04-17 15:20:37,958 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 15:20:37,959 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 15:20:37,995 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:21:08,241 - WARNING -  * Debugger is active!
+2024-04-17 15:21:08,251 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 15:21:08,311 - INFO - Received request to /video_feed
+2024-04-17 15:21:08,843 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-04-17 15:21:08,844 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-04-17 15:21:08,849 - INFO - 127.0.0.1 - - [17/Apr/2024 15:21:08] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 15:21:10,050 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:21:40,941 - WARNING -  * Debugger is active!
+2024-04-17 15:21:40,951 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 15:22:24,272 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:22:24,274 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:22:24,275 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:22:25,570 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:23:21,458 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 15:23:21,458 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 15:23:21,476 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:23:51,417 - WARNING -  * Debugger is active!
+2024-04-17 15:23:51,426 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 15:23:51,484 - INFO - Received request to /video_feed
+2024-04-17 15:23:51,958 - INFO - 127.0.0.1 - - [17/Apr/2024 15:23:51] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 15:28:42,247 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 15:28:42,247 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 15:28:42,264 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:29:13,899 - WARNING -  * Debugger is active!
+2024-04-17 15:29:13,908 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 15:29:25,867 - INFO - Received request to /video_feed
+2024-04-17 15:29:26,656 - INFO - 127.0.0.1 - - [17/Apr/2024 15:29:26] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 15:29:35,515 - INFO - Received request to /video_feed
+2024-04-17 15:29:35,647 - INFO - 127.0.0.1 - - [17/Apr/2024 15:29:35] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 15:29:54,692 - INFO - Received request to /whiteimg
+2024-04-17 15:29:54,750 - INFO - 127.0.0.1 - - [17/Apr/2024 15:29:54] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 15:32:06,469 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:32:06,469 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:32:06,470 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:32:06,471 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:32:07,549 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:32:42,912 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 15:32:42,913 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 15:32:42,930 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:33:13,042 - WARNING -  * Debugger is active!
+2024-04-17 15:33:13,050 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 15:33:13,114 - INFO - Received request to /video_feed
+2024-04-17 15:33:13,119 - INFO - Received request to /whiteimg
+2024-04-17 15:33:13,758 - INFO - 127.0.0.1 - - [17/Apr/2024 15:33:13] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 15:33:13,765 - INFO - 127.0.0.1 - - [17/Apr/2024 15:33:13] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 15:33:40,306 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:33:40,307 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:33:41,589 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:36:30,269 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 15:36:30,269 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 15:36:30,293 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:37:01,672 - WARNING -  * Debugger is active!
+2024-04-17 15:37:01,680 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 15:37:02,458 - INFO - Received request to /video_feed
+2024-04-17 15:37:03,083 - INFO - 127.0.0.1 - - [17/Apr/2024 15:37:03] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 15:37:07,771 - INFO - Received request to /video_feed
+2024-04-17 15:37:07,970 - INFO - 127.0.0.1 - - [17/Apr/2024 15:37:07] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 15:37:14,477 - INFO - Received request to /whiteimg
+2024-04-17 15:37:14,689 - INFO - 127.0.0.1 - - [17/Apr/2024 15:37:14] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 15:38:15,492 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:38:15,493 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:38:15,494 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:38:15,494 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 15:38:16,678 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:38:50,010 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 15:38:50,010 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 15:38:50,029 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:39:21,628 - WARNING -  * Debugger is active!
+2024-04-17 15:39:21,637 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 15:39:45,485 - INFO - Received request to /video_feed
+2024-04-17 15:39:46,077 - INFO - 127.0.0.1 - - [17/Apr/2024 15:39:46] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 15:39:48,992 - INFO - Received request to /whiteimg
+2024-04-17 15:39:49,159 - INFO - 127.0.0.1 - - [17/Apr/2024 15:39:49] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 15:54:11,279 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 15:54:11,280 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 15:54:11,303 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 15:54:40,136 - WARNING -  * Debugger is active!
+2024-04-17 15:54:40,159 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 15:54:40,720 - INFO - 127.0.0.1 - - [17/Apr/2024 15:54:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-17 15:54:41,346 - INFO - 127.0.0.1 - - [17/Apr/2024 15:54:41] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 15:54:51,235 - INFO - Received request to /video_feed
+2024-04-17 15:54:51,998 - INFO - 127.0.0.1 - - [17/Apr/2024 15:54:51] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 15:54:54,957 - INFO - Received request to /whiteimg
+2024-04-17 15:54:55,052 - INFO - 127.0.0.1 - - [17/Apr/2024 15:54:55] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 15:57:12,705 - INFO - 127.0.0.1 - - [17/Apr/2024 15:57:12] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 15:57:15,949 - INFO - Received request to /video_feed
+2024-04-17 15:57:16,005 - INFO - 127.0.0.1 - - [17/Apr/2024 15:57:16] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 15:57:19,819 - INFO - Received request to /whiteimg
+2024-04-17 15:57:19,878 - INFO - 127.0.0.1 - - [17/Apr/2024 15:57:19] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:08:21,234 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 16:08:21,235 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 16:08:21,252 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:08:43,631 - WARNING -  * Debugger is active!
+2024-04-17 16:08:43,642 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 16:08:43,702 - INFO - 127.0.0.1 - - [17/Apr/2024 16:08:43] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:08:43,705 - INFO - 127.0.0.1 - - [17/Apr/2024 16:08:43] "[33mGET /main.0814cb6e00b287e090c7.hot-update.json HTTP/1.1[0m" 404 -
+2024-04-17 16:08:43,862 - INFO - 127.0.0.1 - - [17/Apr/2024 16:08:43] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:08:46,261 - INFO - Received request to /video_feed
+2024-04-17 16:08:46,980 - INFO - 127.0.0.1 - - [17/Apr/2024 16:08:46] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:08:50,504 - INFO - Received request to /whiteimg
+2024-04-17 16:08:50,597 - INFO - 127.0.0.1 - - [17/Apr/2024 16:08:50] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:10:48,762 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 16:10:48,762 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 16:10:48,783 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:11:10,655 - WARNING -  * Debugger is active!
+2024-04-17 16:11:10,659 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 16:11:43,716 - INFO - 127.0.0.1 - - [17/Apr/2024 16:11:43] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:11:46,568 - INFO - Received request to /video_feed
+2024-04-17 16:11:46,971 - INFO - 127.0.0.1 - - [17/Apr/2024 16:11:46] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:11:50,395 - INFO - Received request to /whiteimg
+2024-04-17 16:11:50,449 - INFO - 127.0.0.1 - - [17/Apr/2024 16:11:50] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:13:08,581 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 16:13:08,582 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 16:13:08,593 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:13:30,289 - WARNING -  * Debugger is active!
+2024-04-17 16:13:30,294 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 16:13:41,523 - INFO - 127.0.0.1 - - [17/Apr/2024 16:13:41] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:14:24,309 - INFO - Received request to /video_feed
+2024-04-17 16:14:24,808 - INFO - 127.0.0.1 - - [17/Apr/2024 16:14:24] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:14:27,137 - INFO - Received request to /whiteimg
+2024-04-17 16:14:27,195 - INFO - 127.0.0.1 - - [17/Apr/2024 16:14:27] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:16:08,090 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:16:08,091 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:16:08,091 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:16:08,091 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:16:09,649 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:16:35,684 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 16:16:35,684 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 16:16:35,711 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:16:57,332 - WARNING -  * Debugger is active!
+2024-04-17 16:16:57,336 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 16:16:58,895 - INFO - 127.0.0.1 - - [17/Apr/2024 16:16:58] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:17:00,358 - INFO - Received request to /video_feed
+2024-04-17 16:17:00,776 - INFO - 127.0.0.1 - - [17/Apr/2024 16:17:00] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:17:03,437 - INFO - Received request to /whiteimg
+2024-04-17 16:17:03,498 - INFO - 127.0.0.1 - - [17/Apr/2024 16:17:03] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:18:46,363 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 16:18:46,363 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 16:18:46,373 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:19:07,507 - WARNING -  * Debugger is active!
+2024-04-17 16:19:07,513 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 16:20:02,422 - INFO - 127.0.0.1 - - [17/Apr/2024 16:20:02] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:20:02,890 - INFO - Received request to /video_feed
+2024-04-17 16:20:03,321 - INFO - 127.0.0.1 - - [17/Apr/2024 16:20:03] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:20:10,407 - INFO - Received request to /whiteimg
+2024-04-17 16:20:10,488 - INFO - 127.0.0.1 - - [17/Apr/2024 16:20:10] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:22:19,673 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:22:19,673 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:22:19,673 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:22:19,674 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:22:20,259 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:22:44,988 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 16:22:44,988 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 16:22:45,001 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:23:06,125 - WARNING -  * Debugger is active!
+2024-04-17 16:23:06,129 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 16:23:06,167 - INFO - 127.0.0.1 - - [17/Apr/2024 16:23:06] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:23:06,169 - INFO - Received request to /video_feed
+2024-04-17 16:23:06,638 - INFO - 127.0.0.1 - - [17/Apr/2024 16:23:06] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:23:08,896 - INFO - Received request to /whiteimg
+2024-04-17 16:23:08,954 - INFO - 127.0.0.1 - - [17/Apr/2024 16:23:08] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:23:11,557 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-04-17 16:23:11,560 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-04-17 16:23:12,878 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:23:34,903 - WARNING -  * Debugger is active!
+2024-04-17 16:23:34,908 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 16:23:34,945 - INFO - 127.0.0.1 - - [17/Apr/2024 16:23:34] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:23:34,947 - INFO - Received request to /video_feed
+2024-04-17 16:23:34,950 - INFO - Received request to /whiteimg
+2024-04-17 16:23:35,322 - INFO - 127.0.0.1 - - [17/Apr/2024 16:23:35] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:23:35,394 - INFO - 127.0.0.1 - - [17/Apr/2024 16:23:35] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:24:20,888 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:24:20,888 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:24:20,889 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:24:21,807 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:24:47,792 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 16:24:47,792 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 16:24:47,806 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:25:08,949 - WARNING -  * Debugger is active!
+2024-04-17 16:25:08,955 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 16:25:12,467 - INFO - 127.0.0.1 - - [17/Apr/2024 16:25:12] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:25:16,310 - INFO - 127.0.0.1 - - [17/Apr/2024 16:25:16] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:25:18,375 - INFO - Received request to /video_feed
+2024-04-17 16:25:18,854 - INFO - 127.0.0.1 - - [17/Apr/2024 16:25:18] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:25:21,668 - INFO - Received request to /whiteimg
+2024-04-17 16:25:21,760 - INFO - 127.0.0.1 - - [17/Apr/2024 16:25:21] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:28:28,677 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:28:28,678 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:28:28,678 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:28:28,679 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\Desktop\\BEFINAL - Copy\\backend\\app.py', reloading
+2024-04-17 16:28:29,649 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:28:58,687 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 16:28:58,688 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 16:28:58,709 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:29:20,322 - WARNING -  * Debugger is active!
+2024-04-17 16:29:20,327 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 16:29:24,282 - INFO - 127.0.0.1 - - [17/Apr/2024 16:29:24] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:29:25,076 - INFO - Received request to /video_feed
+2024-04-17 16:29:25,544 - INFO - 127.0.0.1 - - [17/Apr/2024 16:29:25] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:29:27,716 - INFO - Received request to /whiteimg
+2024-04-17 16:29:27,774 - INFO - 127.0.0.1 - - [17/Apr/2024 16:29:27] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:35:13,601 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 16:35:13,601 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 16:35:13,615 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 16:35:35,646 - WARNING -  * Debugger is active!
+2024-04-17 16:35:35,651 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 16:35:35,690 - INFO - 127.0.0.1 - - [17/Apr/2024 16:35:35] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:35:35,692 - INFO - Received request to /video_feed
+2024-04-17 16:35:35,695 - INFO - Received request to /whiteimg
+2024-04-17 16:35:35,698 - INFO - 127.0.0.1 - - [17/Apr/2024 16:35:35] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 16:35:36,112 - INFO - 127.0.0.1 - - [17/Apr/2024 16:35:36] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:35:36,156 - INFO - 127.0.0.1 - - [17/Apr/2024 16:35:36] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 16:35:37,424 - INFO - Received request to /video_feed
+2024-04-17 16:35:37,474 - INFO - 127.0.0.1 - - [17/Apr/2024 16:35:37] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 16:35:41,223 - INFO - Received request to /whiteimg
+2024-04-17 16:35:41,272 - INFO - 127.0.0.1 - - [17/Apr/2024 16:35:41] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 21:50:21,717 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-17 21:50:21,720 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 21:50:21,768 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-17 21:50:47,287 - WARNING -  * Debugger is active!
+2024-04-17 21:50:47,315 - INFO -  * Debugger PIN: 988-759-538
+2024-04-17 21:50:47,367 - INFO - 127.0.0.1 - - [17/Apr/2024 21:50:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-17 21:50:47,369 - INFO - 127.0.0.1 - - [17/Apr/2024 21:50:47] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 21:50:47,371 - INFO - Received request to /video_feed
+2024-04-17 21:50:47,374 - INFO - Received request to /whiteimg
+2024-04-17 21:50:47,377 - INFO - 127.0.0.1 - - [17/Apr/2024 21:50:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-17 21:50:47,380 - INFO - 127.0.0.1 - - [17/Apr/2024 21:50:47] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-17 21:50:48,036 - INFO - 127.0.0.1 - - [17/Apr/2024 21:50:48] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-17 21:50:48,038 - INFO - 127.0.0.1 - - [17/Apr/2024 21:50:48] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 21:50:49,085 - INFO - Received request to /video_feed
+2024-04-17 21:50:49,131 - INFO - 127.0.0.1 - - [17/Apr/2024 21:50:49] "GET /video_feed HTTP/1.1" 200 -
+2024-04-17 21:50:55,229 - INFO - Received request to /whiteimg
+2024-04-17 21:50:55,342 - INFO - 127.0.0.1 - - [17/Apr/2024 21:50:55] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-18 11:44:55,823 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-18 11:44:55,824 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-18 11:44:55,873 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-18 11:45:26,809 - WARNING -  * Debugger is active!
+2024-04-18 11:45:26,821 - INFO -  * Debugger PIN: 988-759-538
+2024-04-18 11:45:26,896 - INFO - Received request to /video_feed
+2024-04-18 11:45:26,905 - INFO - Received request to /whiteimg
+2024-04-18 11:45:26,910 - INFO - 127.0.0.1 - - [18/Apr/2024 11:45:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-18 11:45:26,912 - INFO - 127.0.0.1 - - [18/Apr/2024 11:45:26] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-18 11:45:26,915 - INFO - Received request to /video_feed
+2024-04-18 11:45:27,788 - INFO - 127.0.0.1 - - [18/Apr/2024 11:45:27] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-18 11:45:27,795 - INFO - 127.0.0.1 - - [18/Apr/2024 11:45:27] "GET /video_feed HTTP/1.1" 200 -
+2024-04-18 11:45:27,795 - INFO - 127.0.0.1 - - [18/Apr/2024 11:45:27] "GET /video_feed HTTP/1.1" 200 -
+2024-04-18 11:45:35,510 - INFO - Received request to /whiteimg
+2024-04-18 11:45:35,593 - INFO - 127.0.0.1 - - [18/Apr/2024 11:45:35] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-19 19:03:47,806 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-19 19:03:47,807 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-19 19:03:47,833 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-19 19:04:11,162 - WARNING -  * Debugger is active!
+2024-04-19 19:04:11,168 - INFO -  * Debugger PIN: 988-759-538
+2024-04-19 19:04:46,149 - INFO - Received request to /video_feed
+2024-04-19 19:04:46,824 - INFO - 127.0.0.1 - - [19/Apr/2024 19:04:46] "GET /video_feed HTTP/1.1" 200 -
+2024-04-19 19:04:56,168 - INFO - Received request to /video_feed
+2024-04-19 19:04:56,212 - INFO - 127.0.0.1 - - [19/Apr/2024 19:04:56] "GET /video_feed HTTP/1.1" 200 -
+2024-04-19 19:05:09,222 - INFO - Received request to /whiteimg
+2024-04-19 19:05:09,298 - INFO - 127.0.0.1 - - [19/Apr/2024 19:05:09] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-20 13:18:45,067 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-20 13:18:45,068 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-20 13:18:45,089 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-20 13:19:10,646 - WARNING -  * Debugger is active!
+2024-04-20 13:19:10,657 - INFO -  * Debugger PIN: 988-759-538
+2024-04-20 13:19:19,345 - INFO - Received request to /video_feed
+2024-04-20 13:19:20,162 - INFO - 127.0.0.1 - - [20/Apr/2024 13:19:20] "GET /video_feed HTTP/1.1" 200 -
+2024-04-20 13:19:28,763 - INFO - Received request to /video_feed
+2024-04-20 13:19:28,834 - INFO - 127.0.0.1 - - [20/Apr/2024 13:19:28] "GET /video_feed HTTP/1.1" 200 -
+2024-04-20 13:19:30,946 - INFO - Received request to /whiteimg
+2024-04-20 13:19:31,050 - INFO - 127.0.0.1 - - [20/Apr/2024 13:19:31] "GET /whiteimg HTTP/1.1" 200 -
+2024-04-20 13:20:04,501 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-04-20 13:20:04,514 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-04-20 13:20:04,525 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\mediapipe\\python\\solutions\\hands.py', reloading
+2024-04-20 13:20:04,538 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\mediapipe\\python\\solution_base.py', reloading
+2024-04-20 13:20:06,330 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-20 13:20:41,393 - WARNING -  * Debugger is active!
+2024-04-20 13:20:41,400 - INFO -  * Debugger PIN: 988-759-538
+2024-04-20 13:20:41,461 - INFO - 127.0.0.1 - - [20/Apr/2024 13:20:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-20 13:20:41,464 - INFO - 127.0.0.1 - - [20/Apr/2024 13:20:41] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-04-20 13:20:42,161 - INFO - Received request to /video_feed
+2024-04-20 13:20:42,687 - INFO - 127.0.0.1 - - [20/Apr/2024 13:20:42] "GET /video_feed HTTP/1.1" 200 -
+2024-04-20 13:20:45,378 - INFO - Received request to /whiteimg
+2024-04-20 13:20:45,516 - INFO - 127.0.0.1 - - [20/Apr/2024 13:20:45] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-24 11:10:44,288 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-24 11:10:44,289 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-24 11:10:44,330 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-24 11:11:16,719 - WARNING -  * Debugger is active!
+2024-05-24 11:11:16,729 - INFO -  * Debugger PIN: 988-759-538
+2024-05-24 11:12:47,742 - INFO - 127.0.0.1 - - [24/May/2024 11:12:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-24 11:12:48,053 - INFO - 127.0.0.1 - - [24/May/2024 11:12:48] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-24 11:13:01,460 - INFO - Received request to /video_feed
+2024-05-24 11:13:02,369 - INFO - 127.0.0.1 - - [24/May/2024 11:13:02] "GET /video_feed HTTP/1.1" 200 -
+2024-05-24 11:13:05,422 - INFO - Received request to /whiteimg
+2024-05-24 11:13:05,514 - INFO - 127.0.0.1 - - [24/May/2024 11:13:05] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-24 14:04:14,392 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-24 14:04:14,393 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-24 14:04:14,417 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-24 14:04:35,689 - WARNING -  * Debugger is active!
+2024-05-24 14:04:35,696 - INFO -  * Debugger PIN: 988-759-538
+2024-05-24 14:11:28,813 - INFO - 127.0.0.1 - - [24/May/2024 14:11:28] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-24 14:11:29,888 - INFO - Received request to /video_feed
+2024-05-24 14:11:30,695 - INFO - 127.0.0.1 - - [24/May/2024 14:11:30] "GET /video_feed HTTP/1.1" 200 -
+2024-05-24 14:11:33,473 - INFO - Received request to /whiteimg
+2024-05-24 14:11:33,540 - INFO - 127.0.0.1 - - [24/May/2024 14:11:33] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-28 19:16:25,009 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-28 19:16:25,009 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-28 19:16:25,032 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-28 19:16:47,127 - WARNING -  * Debugger is active!
+2024-05-28 19:16:47,134 - INFO -  * Debugger PIN: 988-759-538
+2024-05-28 19:23:07,490 - INFO - 127.0.0.1 - - [28/May/2024 19:23:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-28 19:23:07,788 - INFO - 127.0.0.1 - - [28/May/2024 19:23:07] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-28 19:23:23,539 - INFO - Received request to /video_feed
+2024-05-28 19:23:24,278 - INFO - 127.0.0.1 - - [28/May/2024 19:23:24] "GET /video_feed HTTP/1.1" 200 -
+2024-05-28 19:23:28,741 - INFO - Received request to /whiteimg
+2024-05-28 19:23:28,824 - INFO - 127.0.0.1 - - [28/May/2024 19:23:28] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-28 19:31:06,222 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-28 19:31:06,223 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-28 19:31:06,243 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-28 19:31:28,566 - WARNING -  * Debugger is active!
+2024-05-28 19:31:28,571 - INFO -  * Debugger PIN: 988-759-538
+2024-05-28 19:31:28,633 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\flask\\app.py', reloading
+2024-05-28 19:31:28,645 - INFO -  * Detected change in 'C:\\Users\\Adarsh\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_cors\\extension.py', reloading
+2024-05-28 19:31:28,655 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\flask\\templating.py', reloading
+2024-05-28 19:31:28,669 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2024-05-28 19:31:28,679 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2024-05-28 19:31:28,693 - INFO - 127.0.0.1 - - [28/May/2024 19:31:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-05-28 19:31:29,024 - INFO - 127.0.0.1 - - [28/May/2024 19:31:29] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-05-28 19:31:29,025 - INFO - 127.0.0.1 - - [28/May/2024 19:31:29] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-05-28 19:31:29,410 - INFO - 127.0.0.1 - - [28/May/2024 19:31:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-05-28 19:31:30,346 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-28 19:31:52,555 - WARNING -  * Debugger is active!
+2024-05-28 19:31:52,560 - INFO -  * Debugger PIN: 988-759-538
+2024-05-28 19:31:52,737 - INFO - 127.0.0.1 - - [28/May/2024 19:31:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-28 19:32:41,260 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-28 19:32:41,260 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-28 19:32:41,271 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-28 19:33:03,635 - WARNING -  * Debugger is active!
+2024-05-28 19:33:03,640 - INFO -  * Debugger PIN: 988-759-538
+2024-05-28 19:33:03,720 - INFO - 127.0.0.1 - - [28/May/2024 19:33:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-05-28 19:33:03,988 - INFO - 127.0.0.1 - - [28/May/2024 19:33:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-28 19:33:03,991 - INFO - 127.0.0.1 - - [28/May/2024 19:33:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-28 19:33:04,312 - INFO - 127.0.0.1 - - [28/May/2024 19:33:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-28 19:33:04,562 - INFO - 127.0.0.1 - - [28/May/2024 19:33:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-28 19:37:33,578 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-28 19:37:33,578 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-28 19:37:33,592 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-28 19:37:56,074 - WARNING -  * Debugger is active!
+2024-05-28 19:37:56,080 - INFO -  * Debugger PIN: 988-759-538
+2024-05-28 19:37:56,118 - INFO - Received request to /video_feed
+2024-05-28 19:37:56,125 - INFO - Received request to /whiteimg
+2024-05-28 19:37:56,885 - INFO - 127.0.0.1 - - [28/May/2024 19:37:56] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-28 19:37:56,890 - INFO - 127.0.0.1 - - [28/May/2024 19:37:56] "GET /video_feed HTTP/1.1" 200 -
+2024-05-28 20:03:41,664 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-28 20:03:41,664 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-28 20:03:41,684 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-28 20:04:04,515 - WARNING -  * Debugger is active!
+2024-05-28 20:04:04,520 - INFO -  * Debugger PIN: 988-759-538
+2024-05-28 20:04:04,560 - INFO - Received request to /video_feed
+2024-05-28 20:04:04,567 - INFO - Received request to /whiteimg
+2024-05-28 20:04:05,351 - INFO - 127.0.0.1 - - [28/May/2024 20:04:05] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-28 20:04:05,357 - INFO - 127.0.0.1 - - [28/May/2024 20:04:05] "GET /video_feed HTTP/1.1" 200 -
+2024-05-28 20:04:20,621 - INFO - 127.0.0.1 - - [28/May/2024 20:04:20] "[33mPOST /save_screenshot HTTP/1.1[0m" 404 -
+2024-05-28 20:04:25,515 - INFO - 127.0.0.1 - - [28/May/2024 20:04:25] "[33mPOST /save_screenshot HTTP/1.1[0m" 404 -
+2024-05-28 20:04:25,952 - INFO - 127.0.0.1 - - [28/May/2024 20:04:25] "[33mPOST /save_screenshot HTTP/1.1[0m" 404 -
+2024-05-28 20:04:26,063 - INFO - 127.0.0.1 - - [28/May/2024 20:04:26] "[33mPOST /save_screenshot HTTP/1.1[0m" 404 -
+2024-05-28 20:04:26,189 - INFO - 127.0.0.1 - - [28/May/2024 20:04:26] "[33mPOST /save_screenshot HTTP/1.1[0m" 404 -
+2024-05-28 20:04:26,199 - INFO - 127.0.0.1 - - [28/May/2024 20:04:26] "[33mPOST /save_screenshot HTTP/1.1[0m" 404 -
+2024-05-28 20:05:57,531 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-28 20:05:57,531 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-28 20:05:57,540 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-28 20:06:19,598 - WARNING -  * Debugger is active!
+2024-05-28 20:06:19,603 - INFO -  * Debugger PIN: 988-759-538
+2024-05-28 20:06:19,649 - INFO - Received request to /video_feed
+2024-05-28 20:06:19,651 - INFO - Received request to /whiteimg
+2024-05-28 20:06:20,086 - INFO - 127.0.0.1 - - [28/May/2024 20:06:20] "GET /video_feed HTTP/1.1" 200 -
+2024-05-28 20:06:20,154 - INFO - 127.0.0.1 - - [28/May/2024 20:06:20] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-28 20:06:38,134 - INFO - 127.0.0.1 - - [28/May/2024 20:06:38] "POST /save_screenshot HTTP/1.1" 200 -
+2024-05-28 20:06:54,137 - INFO - 127.0.0.1 - - [28/May/2024 20:06:54] "POST /save_screenshot HTTP/1.1" 200 -
+2024-05-28 20:11:00,713 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-28 20:11:00,713 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-28 20:11:00,722 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-28 20:11:23,198 - WARNING -  * Debugger is active!
+2024-05-28 20:11:23,205 - INFO -  * Debugger PIN: 988-759-538
+2024-05-28 20:11:23,254 - INFO - Received request to /video_feed
+2024-05-28 20:11:23,257 - INFO - Received request to /whiteimg
+2024-05-28 20:11:23,677 - INFO - 127.0.0.1 - - [28/May/2024 20:11:23] "GET /video_feed HTTP/1.1" 200 -
+2024-05-28 20:11:23,777 - INFO - 127.0.0.1 - - [28/May/2024 20:11:23] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-28 20:11:57,448 - INFO - 127.0.0.1 - - [28/May/2024 20:11:57] "POST /save_screenshot HTTP/1.1" 200 -
+2024-05-29 00:47:23,710 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-29 00:47:23,711 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-29 00:47:23,736 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-29 00:47:46,552 - WARNING -  * Debugger is active!
+2024-05-29 00:47:46,559 - INFO -  * Debugger PIN: 988-759-538
+2024-05-29 00:47:46,603 - INFO - 127.0.0.1 - - [29/May/2024 00:47:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-29 00:47:46,605 - INFO - 127.0.0.1 - - [29/May/2024 00:47:46] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-29 00:47:46,607 - INFO - Received request to /video_feed
+2024-05-29 00:47:46,614 - INFO - Received request to /whiteimg
+2024-05-29 00:47:47,394 - INFO - 127.0.0.1 - - [29/May/2024 00:47:47] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-29 00:47:47,400 - INFO - 127.0.0.1 - - [29/May/2024 00:47:47] "GET /video_feed HTTP/1.1" 200 -
+2024-05-29 00:50:28,407 - INFO - 127.0.0.1 - - [29/May/2024 00:50:28] "POST /save_screenshot HTTP/1.1" 200 -
+2024-05-29 10:52:15,047 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-29 10:52:15,048 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-29 10:52:15,079 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-29 10:52:48,152 - WARNING -  * Debugger is active!
+2024-05-29 10:52:48,159 - INFO -  * Debugger PIN: 988-759-538
+2024-05-29 10:55:50,666 - INFO - 127.0.0.1 - - [29/May/2024 10:55:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-29 10:55:50,937 - INFO - 127.0.0.1 - - [29/May/2024 10:55:50] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-29 10:55:59,148 - INFO - Received request to /video_feed
+2024-05-29 10:56:00,129 - INFO - 127.0.0.1 - - [29/May/2024 10:56:00] "GET /video_feed HTTP/1.1" 200 -
+2024-05-29 10:56:02,427 - INFO - Received request to /whiteimg
+2024-05-29 10:56:02,545 - INFO - 127.0.0.1 - - [29/May/2024 10:56:02] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-29 10:56:05,462 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-05-29 10:56:05,483 - INFO -  * Detected change in 'C:\\Program Files\\Python39\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-05-29 10:56:08,659 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-29 10:56:41,865 - WARNING -  * Debugger is active!
+2024-05-29 10:56:41,874 - INFO -  * Debugger PIN: 988-759-538
+2024-05-29 10:56:41,944 - INFO - 127.0.0.1 - - [29/May/2024 10:56:41] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-29 10:56:41,947 - INFO - Received request to /video_feed
+2024-05-29 10:56:41,949 - INFO - Received request to /whiteimg
+2024-05-29 10:56:41,952 - INFO - 127.0.0.1 - - [29/May/2024 10:56:41] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-29 10:56:42,376 - INFO - 127.0.0.1 - - [29/May/2024 10:56:42] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-29 10:56:42,383 - INFO - 127.0.0.1 - - [29/May/2024 10:56:42] "GET /video_feed HTTP/1.1" 200 -
+2024-05-29 10:57:58,500 - INFO - Received request to /video_feed
+2024-05-29 10:57:58,574 - INFO - 127.0.0.1 - - [29/May/2024 10:57:58] "GET /video_feed HTTP/1.1" 200 -
+2024-05-29 10:58:01,319 - INFO - Received request to /whiteimg
+2024-05-29 10:58:01,431 - INFO - 127.0.0.1 - - [29/May/2024 10:58:01] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-29 10:58:22,084 - INFO - 127.0.0.1 - - [29/May/2024 10:58:22] "POST /save_screenshot HTTP/1.1" 200 -
+2024-05-29 11:37:23,768 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-29 11:37:23,769 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-29 11:37:23,791 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-29 11:37:58,659 - WARNING -  * Debugger is active!
+2024-05-29 11:37:58,667 - INFO -  * Debugger PIN: 988-759-538
+2024-05-29 11:37:58,724 - INFO - 127.0.0.1 - - [29/May/2024 11:37:58] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-29 11:37:58,727 - INFO - 127.0.0.1 - - [29/May/2024 11:37:58] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-29 11:37:58,730 - INFO - Received request to /video_feed
+2024-05-29 11:37:58,739 - INFO - Received request to /whiteimg
+2024-05-29 11:37:58,741 - INFO - 127.0.0.1 - - [29/May/2024 11:37:58] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-29 11:37:59,077 - INFO - Received request to /video_feed
+2024-05-29 11:37:59,635 - INFO - 127.0.0.1 - - [29/May/2024 11:37:59] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-29 11:37:59,642 - INFO - 127.0.0.1 - - [29/May/2024 11:37:59] "GET /video_feed HTTP/1.1" 200 -
+2024-05-29 11:37:59,643 - INFO - 127.0.0.1 - - [29/May/2024 11:37:59] "GET /video_feed HTTP/1.1" 200 -
+2024-05-29 11:38:04,661 - INFO - 127.0.0.1 - - [29/May/2024 11:38:04] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-29 11:38:12,451 - INFO - Received request to /video_feed
+2024-05-29 11:38:12,524 - INFO - 127.0.0.1 - - [29/May/2024 11:38:12] "GET /video_feed HTTP/1.1" 200 -
+2024-05-29 11:38:22,796 - INFO - Received request to /whiteimg
+2024-05-29 11:38:22,853 - INFO - 127.0.0.1 - - [29/May/2024 11:38:22] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-29 11:38:34,373 - INFO - 127.0.0.1 - - [29/May/2024 11:38:34] "POST /save_screenshot HTTP/1.1" 200 -
+2024-05-29 21:58:47,576 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-29 21:58:47,577 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-29 21:58:47,607 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-29 21:59:14,096 - WARNING -  * Debugger is active!
+2024-05-29 21:59:14,102 - INFO -  * Debugger PIN: 988-759-538
+2024-05-29 22:00:04,698 - INFO - 127.0.0.1 - - [29/May/2024 22:00:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-29 22:00:04,997 - INFO - 127.0.0.1 - - [29/May/2024 22:00:04] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-29 22:00:12,937 - INFO - Received request to /video_feed
+2024-05-29 22:00:14,694 - INFO - 127.0.0.1 - - [29/May/2024 22:00:14] "GET /video_feed HTTP/1.1" 200 -
+2024-05-29 22:00:20,676 - INFO - Received request to /whiteimg
+2024-05-29 22:00:20,733 - INFO - 127.0.0.1 - - [29/May/2024 22:00:20] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-29 22:08:34,651 - INFO - 127.0.0.1 - - [29/May/2024 22:08:34] "POST /save_screenshot HTTP/1.1" 200 -
+2024-05-31 00:05:29,179 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-31 00:05:29,180 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-31 00:05:29,205 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-31 00:05:57,932 - WARNING -  * Debugger is active!
+2024-05-31 00:05:57,939 - INFO -  * Debugger PIN: 988-759-538
+2024-05-31 00:07:11,463 - INFO - Received request to /video_feed
+2024-05-31 00:07:12,143 - INFO - 127.0.0.1 - - [31/May/2024 00:07:12] "GET /video_feed HTTP/1.1" 200 -
+2024-05-31 00:09:18,474 - INFO - Received request to /whiteimg
+2024-05-31 00:09:18,523 - INFO - 127.0.0.1 - - [31/May/2024 00:09:18] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-31 00:12:06,855 - INFO - 127.0.0.1 - - [31/May/2024 00:12:06] "POST /save_screenshot HTTP/1.1" 200 -
+2024-05-31 11:19:06,612 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-31 11:19:06,613 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-31 11:19:06,638 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-31 11:19:32,703 - WARNING -  * Debugger is active!
+2024-05-31 11:19:32,709 - INFO -  * Debugger PIN: 988-759-538
+2024-05-31 11:19:32,757 - INFO - Received request to /video_feed
+2024-05-31 11:19:33,613 - INFO - 127.0.0.1 - - [31/May/2024 11:19:33] "GET /video_feed HTTP/1.1" 200 -
+2024-05-31 22:18:02,098 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-31 22:18:02,099 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-31 22:18:02,130 - INFO -  * Restarting with watchdog (windowsapi)
+2024-05-31 22:18:38,006 - WARNING -  * Debugger is active!
+2024-05-31 22:18:38,016 - INFO -  * Debugger PIN: 988-759-538
+2024-05-31 22:18:38,089 - INFO - Received request to /video_feed
+2024-05-31 22:18:39,054 - INFO - 127.0.0.1 - - [31/May/2024 22:18:39] "GET /video_feed HTTP/1.1" 200 -
+2024-05-31 22:18:57,323 - INFO - 127.0.0.1 - - [31/May/2024 22:18:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-31 22:18:57,629 - INFO - 127.0.0.1 - - [31/May/2024 22:18:57] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-31 22:19:04,200 - INFO - Received request to /video_feed
+2024-05-31 22:19:04,271 - INFO - 127.0.0.1 - - [31/May/2024 22:19:04] "GET /video_feed HTTP/1.1" 200 -
+2024-05-31 22:19:26,780 - INFO - 127.0.0.1 - - [31/May/2024 22:19:26] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-05-31 22:20:50,838 - INFO - Received request to /video_feed
+2024-05-31 22:20:50,911 - INFO - 127.0.0.1 - - [31/May/2024 22:20:50] "GET /video_feed HTTP/1.1" 200 -
+2024-05-31 22:22:08,146 - INFO - Received request to /whiteimg
+2024-05-31 22:22:08,273 - INFO - 127.0.0.1 - - [31/May/2024 22:22:08] "GET /whiteimg HTTP/1.1" 200 -
+2024-05-31 22:22:39,426 - INFO - 127.0.0.1 - - [31/May/2024 22:22:39] "POST /save_screenshot HTTP/1.1" 200 -
+2024-06-01 10:44:33,609 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-01 10:44:33,609 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-01 10:44:33,633 - INFO -  * Restarting with watchdog (windowsapi)
+2024-06-01 10:45:02,897 - WARNING -  * Debugger is active!
+2024-06-01 10:45:02,902 - INFO -  * Debugger PIN: 988-759-538
+2024-06-01 10:45:02,959 - INFO - 127.0.0.1 - - [01/Jun/2024 10:45:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-01 10:45:02,961 - INFO - 127.0.0.1 - - [01/Jun/2024 10:45:02] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-06-01 10:45:02,963 - INFO - Received request to /video_feed
+2024-06-01 10:45:03,656 - INFO - 127.0.0.1 - - [01/Jun/2024 10:45:03] "GET /video_feed HTTP/1.1" 200 -
+2024-06-01 10:47:38,654 - INFO - 127.0.0.1 - - [01/Jun/2024 10:47:38] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-06-01 10:49:41,092 - INFO - 127.0.0.1 - - [01/Jun/2024 10:49:41] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-06-01 10:52:19,336 - INFO - Received request to /video_feed
+2024-06-01 10:52:19,416 - INFO - 127.0.0.1 - - [01/Jun/2024 10:52:19] "GET /video_feed HTTP/1.1" 200 -
+2024-06-01 10:52:25,146 - INFO - 127.0.0.1 - - [01/Jun/2024 10:52:25] "[33mGET /logo192.png HTTP/1.1[0m" 404 -
+2024-06-01 10:52:29,897 - INFO - Received request to /video_feed
+2024-06-01 10:52:29,969 - INFO - 127.0.0.1 - - [01/Jun/2024 10:52:29] "GET /video_feed HTTP/1.1" 200 -
+2024-06-01 10:55:20,328 - INFO - Received request to /whiteimg
+2024-06-01 10:55:20,407 - INFO - 127.0.0.1 - - [01/Jun/2024 10:55:20] "GET /whiteimg HTTP/1.1" 200 -
+2024-06-01 10:55:33,778 - INFO - 127.0.0.1 - - [01/Jun/2024 10:55:33] "POST /save_screenshot HTTP/1.1" 200 -
